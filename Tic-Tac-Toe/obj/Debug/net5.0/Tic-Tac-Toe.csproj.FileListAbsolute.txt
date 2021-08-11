@@ -1,0 +1,16 @@
+/home/gabrieltmjr/RiderProjects/Tic-Tac-Toe/Tic-Tac-Toe/bin/Debug/net5.0/Tic-Tac-Toe
+/home/gabrieltmjr/RiderProjects/Tic-Tac-Toe/Tic-Tac-Toe/bin/Debug/net5.0/Tic-Tac-Toe.deps.json
+/home/gabrieltmjr/RiderProjects/Tic-Tac-Toe/Tic-Tac-Toe/bin/Debug/net5.0/Tic-Tac-Toe.runtimeconfig.json
+/home/gabrieltmjr/RiderProjects/Tic-Tac-Toe/Tic-Tac-Toe/bin/Debug/net5.0/Tic-Tac-Toe.runtimeconfig.dev.json
+/home/gabrieltmjr/RiderProjects/Tic-Tac-Toe/Tic-Tac-Toe/bin/Debug/net5.0/Tic-Tac-Toe.dll
+/home/gabrieltmjr/RiderProjects/Tic-Tac-Toe/Tic-Tac-Toe/bin/Debug/net5.0/ref/Tic-Tac-Toe.dll
+/home/gabrieltmjr/RiderProjects/Tic-Tac-Toe/Tic-Tac-Toe/bin/Debug/net5.0/Tic-Tac-Toe.pdb
+/home/gabrieltmjr/RiderProjects/Tic-Tac-Toe/Tic-Tac-Toe/obj/Debug/net5.0/Tic-Tac-Toe.csproj.AssemblyReference.cache
+/home/gabrieltmjr/RiderProjects/Tic-Tac-Toe/Tic-Tac-Toe/obj/Debug/net5.0/Tic-Tac-Toe.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabrieltmjr/RiderProjects/Tic-Tac-Toe/Tic-Tac-Toe/obj/Debug/net5.0/Tic-Tac-Toe.AssemblyInfoInputs.cache
+/home/gabrieltmjr/RiderProjects/Tic-Tac-Toe/Tic-Tac-Toe/obj/Debug/net5.0/Tic-Tac-Toe.AssemblyInfo.cs
+/home/gabrieltmjr/RiderProjects/Tic-Tac-Toe/Tic-Tac-Toe/obj/Debug/net5.0/Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+/home/gabrieltmjr/RiderProjects/Tic-Tac-Toe/Tic-Tac-Toe/obj/Debug/net5.0/Tic-Tac-Toe.dll
+/home/gabrieltmjr/RiderProjects/Tic-Tac-Toe/Tic-Tac-Toe/obj/Debug/net5.0/ref/Tic-Tac-Toe.dll
+/home/gabrieltmjr/RiderProjects/Tic-Tac-Toe/Tic-Tac-Toe/obj/Debug/net5.0/Tic-Tac-Toe.pdb
+/home/gabrieltmjr/RiderProjects/Tic-Tac-Toe/Tic-Tac-Toe/obj/Debug/net5.0/Tic-Tac-Toe.genruntimeconfig.cache
